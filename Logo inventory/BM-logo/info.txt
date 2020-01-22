@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Corben-Regular
+font link: https://fonts.google.com/specimen/Corben
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+Slogan Font: LindenHill-webfont.ttf
+
+icon designer: Yazmin Alanis
+icon designer link: /yalanis
+        
+{"bg":"#927053","icon":"#583936","font":"#ffffff","slogan":"#ffffff"}
+      
