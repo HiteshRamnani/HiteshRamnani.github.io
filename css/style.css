@@ -868,6 +868,7 @@ h3, .h3 {
 
 .bg-shape {
   position: relative;
+  overflow:auto;
 }
 
 .bg-shape::before {
