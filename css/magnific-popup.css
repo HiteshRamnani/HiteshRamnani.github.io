@@ -68,29 +68,14 @@
 
 .mfp-auto-cursor .mfp-content {
   cursor: auto; }
-  
-/*change to fix the scroll issue */
-/*.mfp-close,
+
+.mfp-close,
 .mfp-arrow,
 .mfp-preloader,
 .mfp-counter {
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none; }
-  */
-  
-.mfp-close,
-.mfp-arrow,
-.mfp-preloader,
-.mfp-counter {
-	-ms-touch-action: auto;
-	touch-action: auto;
-  -webkit-user-select: auto;
-  -moz-user-select: auto;
-  -ms-user-select: auto;
-  user-select:  auto; } 
-  
-  
 
 .mfp-loading.mfp-figure {
   display: none; }

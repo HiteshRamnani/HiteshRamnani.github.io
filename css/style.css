@@ -16,15 +16,12 @@
 	============================================================================================ */
 /* global style start
 	============================================================================================ */
-	
 body {
   color: #888888;
   font-family: "Roboto", sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.667;
-  height:100%;
-  overflow:auto;
 }
 
 ul {
@@ -114,8 +111,7 @@ h3, .h3 {
   margin: 65px 0;
 }
 
-@
-(min-width: 992px) {
+@media (min-width: 992px) {
   .section-margin-large {
     margin: 140px 0;
   }
@@ -531,7 +527,6 @@ h3, .h3 {
   .header_area .navbar-collapse {
     max-height: 340px;
     overflow-y: scroll;
-	-webkit-overflow-scrolling: touch;
   }
   .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
     padding: 0px 15px;
