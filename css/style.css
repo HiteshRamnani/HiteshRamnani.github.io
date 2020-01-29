@@ -526,7 +526,7 @@ h3, .h3 {
   }
   .header_area .navbar-collapse {
     max-height: 340px;
-  /*  overflow-y: scroll; commented by Pankaj*/
+    overflow-y: scroll; 
   }
   .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
     padding: 0px 15px;
@@ -1616,12 +1616,11 @@ h3, .h3 {
   margin-bottom: 30px;
 }
 
-/*
 .single-recent-blog-post .thumb {
   overflow: hidden;
 }
- commented by Pankaj
-*/
+ 
+
 
 .single-recent-blog-post .thumb img {
   transition: all 0.7s linear;
@@ -2652,7 +2651,7 @@ button.button {
 }
 
 .instafeed li {
- /* overflow: hidden; commented by Pankaj */
+overflow: hidden; 
   width: 25%;
   margin-bottom: 0 !important;
 }
