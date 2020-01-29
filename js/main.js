@@ -22,9 +22,9 @@ $(function() {
     navbarFixed();
 
     //------- Parallax -------//
-  skrollr.init({
+/*  skrollr.init({
     forceHeight: false
-  });
+  }); */
 
 
 
